@@ -1,6 +1,6 @@
 //-----------------------------------------------------------------------------
 // name: fft.c
-// desc: fft impl - based on CARL distribution
+// desc: FFT impl - based on CARL distribution
 //
 // authors: code from San Diego CARL package
 //          Ge Wang (gewang@cs.princeton.edu)

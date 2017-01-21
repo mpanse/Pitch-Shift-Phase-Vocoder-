@@ -3,7 +3,7 @@
 
     This file was auto-generated!
 
-    It contains the basic framework code for a JUCE plugin editor.
+    It contains the basic framework code for a JUCE Plugin editor.
 
   ==============================================================================
 */
@@ -11,7 +11,7 @@
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
-//Creates a slider with customized params
+//Creates a slider with customized parameters
 
 void PitchShifterAudioProcessorEditor::createSlider(Slider &slider, Slider::SliderStyle style, double defaultVal,
 	double min, double max, double incr, std::string name)

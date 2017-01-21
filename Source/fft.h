@@ -4,7 +4,7 @@
 //
 // authors: code from San Diego CARL package
 //          Ge Wang (gewang@cs.princeton.edu)
-//          Perry R. Cook (prc@cs.princeton.edu)
+//          Perry R. Cook (prc@cs.princeton.edu) 
 // date: 11.27.2003
 //-----------------------------------------------------------------------------
 #ifndef __FFT_H__

@@ -5,7 +5,7 @@
 // authors: code from San Diego CARL package
 //          Ge Wang (gewang@cs.princeton.edu)
 //          Perry R. Cook (prc@cs.princeton.edu)
-// date: 11.27.2003
+// date: 11.27.2003 
 //-----------------------------------------------------------------------------
 #include "fft.h"
 #include <stdlib.h>

@@ -1,6 +1,6 @@
 //
 //  Shifter.h
-//  PhaseShifter
+//  PhaseShifter Header
 //
 //
 //

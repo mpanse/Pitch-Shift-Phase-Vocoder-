@@ -1,5 +1,5 @@
 
-// Phase vocoding implementation via filter-bank approach
+// Phase Vocoding implementation via filter-bank approach
 // Information obtained from DAFX book ch. 7
 // Pitch Shifting Process:
 //      1. Input Signal (Time Domain)
